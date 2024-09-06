@@ -23,11 +23,18 @@ Well, I guess we can talk about my favorite foods?
 
 </center>
 
+<div style="text-align: center;">
+
+<div style="display: inline-block; text-align: left;">
 
 1. Fried Chicken : Clear Winner right here. 
 1. Noodle Soup : It's hot and tasty! 
 1. Fried Rice : Very simple meal.
 1. Stir-Fried Basil with Meat : Also very simple, but simple is the best.
+
+</div>
+
+</div>
 
 ---
 
